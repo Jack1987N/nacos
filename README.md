@@ -7,7 +7,7 @@
 [![Gitter](https://travis-ci.org/alibaba/nacos.svg?branch=master)](https://travis-ci.org/alibaba/nacos)
 
 -------
-
+`噔噔噔，咳咳，提交一个pr来玩玩，可以的话请采纳建议...`
 ## What does it do
 
 Nacos (official site: [nacos.io](https://nacos.io)) is an easy-to-use platform designed for dynamic service discovery and configuration and service management. It helps you to build cloud native applications and microservices platform easily.
